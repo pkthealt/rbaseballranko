@@ -16,23 +16,23 @@ pcols = [0, 7, 8, 9, 15, 17]
 pcolv = ['K/9', 'BB/9', 'HR/9', 'FIP', 'WAR']
 fcols = [0, 10, 23]
 fcolv = ['DRS', 'DEF']
-WEEK = "./6/" # CHANGE THIS TO GET PROPER FILENAMES
+WEEK = "./7/" # CHANGE THIS TO GET PROPER FILENAMES
 #PATH = // maybe useful for the future
 # These are for the past week
 P_COLUMN_KEY = []
 F_COLUMN_KEY = []
 B_COLUMN_KEY = []
-PITCHER_STATS = []
-FIELDER_STATS = []
-BATTER_STATS = []
+#PITCHER_STATS = []
+#FIELDER_STATS = []
+#BATTER_STATS = []
 
 # These are for the season through this week
 P_COLUMN_KEY_O = []
 F_COLUMN_KEY_O = []
 B_COLUMN_KEY_O = []
-PITCHER_STATS_O = []
-FIELDER_STATS_O = []
-BATTER_STATS_O = []
+#PITCHER_STATS_O = []
+#FIELDER_STATS_O = []
+#BATTER_STATS_O = []
 
 # the key lists are unused, actually all the empty lists are unused
 
