@@ -16,7 +16,7 @@ pcols = [0, 7, 8, 9, 15, 17]
 pcolv = ['K/9', 'BB/9', 'HR/9', 'FIP', 'WAR']
 fcols = [0, 10, 23]
 fcolv = ['DRS', 'DEF']
-WEEK = "./23/" # CHANGE THIS TO GET PROPER FILENAMES
+WEEK = "./24/" # CHANGE THIS TO GET PROPER FILENAMES
 #PATH = // maybe useful for the future
 # These are for the past week
 P_COLUMN_KEY = []
